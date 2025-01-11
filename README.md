@@ -15,7 +15,7 @@
 
 ## 🌟 Education
 - **Scaler School of Technology**: CS Undergrad
-- **BITS Pilani**: Bachelor's in computer science
+- **BITS Pilani**: Bachelor's in Computer Science
 
 ---
 

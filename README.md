@@ -8,7 +8,7 @@
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Java, JavaScript
-- **Tools & Frameworks**: HTML, CSS, Tailwind CSS, Streamlit, Bootstrap
+- **Tools & Frameworks**: HTML, CSS, Tailwind CSS, Streamlit, Basic React
 - **Areas of Interest**: Web Development, Interactive Applications
 
 ---
